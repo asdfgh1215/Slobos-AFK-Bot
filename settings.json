@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "Verytime.aternos.me:13901",
-    "port": 13901,
-    "version": "",
+    "port": ,
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
