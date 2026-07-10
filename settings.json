@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Verytime.aternos.me",
+    "ip": "Verytime.aternos.me:13901",
     "port": 13901,
     "version": "",
     "try-creative": false
