@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "nikita555qwert",
+    "password": "qwertyasdfg",
     "type": "offline"
   },
   "server": {
     "ip": "Verytime.aternos.me:13901",
     "port": ,
-    "version": "1.16.5",
+    "version": "",
     "try-creative": false
   },
   "position": {
